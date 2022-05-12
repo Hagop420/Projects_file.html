@@ -1,0 +1,47 @@
+body{
+    background: lightgreen;
+    
+    
+    font-size: 20px;
+}
+.dolma{
+    height:300px;
+    position: relative;
+}
+
+#gen{
+    display: none;
+}
+
+body h1{
+    font-family: sans-serif;
+    font-size:50px
+}
+
+body mark{
+    border-radius:10px;
+}
+
+body .left{
+    
+    position: absolute;
+    margin-right: 100px;
+    height:400px;
+    padding-bottom: 100px;
+    
+}
+
+body .BOMB{
+    margin-left:290px;
+}
+
+
+.kkk{
+    background:red;
+    border-radius: 10px;
+
+}
+
+
+
+

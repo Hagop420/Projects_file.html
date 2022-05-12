@@ -1,0 +1,49 @@
+.h1{
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 2px 2px #FF0000
+}
+body{
+   /* background:linear-gradient(to right, black,grey,darkcyan,darkred,lightgrey); */
+    font-size:28px;
+    background-color: lightslategray;
+}
+
+#last{
+  display: inline-block;
+}
+
+.change{
+  margin-top:20px;
+}
+#name{
+  display:inline-block;
+ 
+}
+
+
+#gen{
+  margin-top: 30px;
+}
+
+#age{
+  float: left;;
+}
+.po{
+  margin-top: 30px;
+}
+
+mark{
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.rice{
+margin-top: 30px;
+color:red;
+border-radius: 5px;
+}
+
+button{
+ margin-top: 30px;
+}
